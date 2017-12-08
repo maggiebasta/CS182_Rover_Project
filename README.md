@@ -10,7 +10,9 @@ Programs that CAN be run with the cloned repository:
 
     – /parser/parser.py
   
-    – programs in the Python Path Planning folder 
+    – /Python Path Planner/heightmap_planner.py
+    
+    – /Python Path Planner/local_planner.py
 
 
 ** Programs that CANNOT be run with the cloned repository: 
