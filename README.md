@@ -13,10 +13,10 @@ Programs that CAN be run with the cloned repository:
   – programs in the Python Path Planning folder 
 
 
-Programs that CANNOT be run with the cloned repository: 
+** Programs that CANNOT be run with the cloned repository: 
 
-  – gazeboCode/Rover.cc  
+  – ** gazeboCode/Rover.cc  
   
-  – gazeboCode/Rover.world
+  – ** gazeboCode/Rover.world
   
   ** These programs requiere the external packages, software and local files to run  
